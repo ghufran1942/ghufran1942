@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm **Mohammad Ghufran**, a robotics engineer, with **Master of Engineering in Robotics and Automation** from the **University of Arizona**. I'm fascinated by the intersection of **technology and creativity** — whether it's building robots, designing new projects, or experimenting with new tools, I love anything that lets me bring my ideas to life.
 
-📍 Originally from the **cradle of ancient culture, India**, now in **sun-soaked deserts of Arizona**, but but ready to explore new opportunities wherever they may take me! 🚀
+📍 Originally from the **cradle of ancient culture, India**, now in **sun-soaked deserts of Arizona**, but ready to explore new opportunities wherever they may take me! 🚀
 
 ## 🚀 About Me
 - I'm constantly curious and passionate about **robotics, AI, and the endless possibilities they bring**.
