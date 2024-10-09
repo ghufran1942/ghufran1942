@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **ghufran1942/ghufran1942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +31,7 @@ I'm **Mohammad Ghufran**, a robotics engineer, with **Master of Engineering in R
 - **CAD & Prototyping**: SolidWorks, Fusion 360, 3D Printing (FDM, SLA)
 
 ## ⚡ Fun Facts
-- Coming Soon.
+- Stay Tuned.
 
 ## 📫 Connect with Me
 - [LinkedIn](http://www.linkedin.com/in/ghufran1942)
